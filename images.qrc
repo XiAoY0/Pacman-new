@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/Inky.png</file>
+        <file>images/dot.png</file>
+        <file>images/dotb.png</file>
+        <file>images/power_ball.png</file>
+        <file>images/wall.png</file>
+        <file>images/gate.png</file>
+    </qresource>
+</RCC>
